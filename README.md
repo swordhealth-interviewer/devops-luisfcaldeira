@@ -1,6 +1,5 @@
 # SWORDHEALTH
 
-- [ ] Primeiro problema
 
 About once every two weeks, SWORD asks its patients how much they would
 recommend its therapy to someone they know on a scale from 0 to 10. Assume you have a
@@ -36,9 +35,8 @@ Write a SQL query to calculate SWORD’s Digital Therapist NPS for each month. E
 
 
 
+- - - -
 
-
-# - [ ] Segundo problema
 
 Write a python program that takes as input the name of a txt file and creates another file
 having the number of occurrences of each word in the original file in descending order. E.g.:
