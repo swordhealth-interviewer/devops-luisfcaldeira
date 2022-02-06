@@ -1,19 +1,7 @@
 #!/usr/bin/python
 import concurrent.futures
-
-# import urllib.request
 import string
-from itertools import islice
 
-URLS = [
-    "http://www.foxnews.com/",
-    "http://www.cnn.com/",
-    "http://europe.wsj.com/",
-    "http://www.bbc.co.uk/",
-    "http://sapo.pt/",
-    "http://microsoft.com/",
-    "http://yahoo.com",
-]
 
 file_lines = []
 
