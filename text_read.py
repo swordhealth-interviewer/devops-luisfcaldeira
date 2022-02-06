@@ -75,16 +75,5 @@ def word_count(word_dic, line):
     return word_dic
 
 
-def count_lines(f):
-    count = 0
-    for i in f:
-        count += 1
-    return count
-
-
-def read_n_lines_from_file(f, n_lines):
-    return [[x.strip() for x in islice(f, n_lines)]]
-
-
 if __name__ == "__main__":
     main()
